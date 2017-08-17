@@ -1,0 +1,16 @@
+{
+    "name": "Evento",
+    "alias": "evento",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Evento\\Providers\\EventoServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
